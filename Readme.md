@@ -140,8 +140,6 @@ Ensure the port number you choose is not used by another service and is allowed 
 
 - **Troubleshooting:**  
 - Verify that the recipient peer is running the program and listening on the correct port.
-- Double-check the IP addresses and port numbers for accuracy.
-- Adjust firewall and antivirus settings if connections are blocked or time out.
 
 - **Network Connectivity:**  
 *If your WiFi connection fails, try using a personal hotspot.*
