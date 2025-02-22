@@ -110,6 +110,25 @@ _Server listening on all interfaces (port 8080)_
 0. **Quit:**  
    Exits the program.
 
+ **SAMPLE RUN**  
+     ```bash
+     Enter your team name: Team_BTC
+     Enter your port number: 5000
+     Your detected IP address: 10.18.6.232
+
+            Menu
+     1. Send message
+     2. Query active peers
+     3. Connect to active peers
+     4. Send mandatory message to default peers
+     0. Quit
+    Server listening on all interfaces (port 5000)
+    Enter choice: 1
+    Enter recipient's IP address: 10.18.6.232
+    Enter recipient's port number: 6000
+    Enter your message (type 'exit' to disconnect): Hi
+     ```
+
 ## Additional Notes
 
 - **Correct IP Addresses:**  
