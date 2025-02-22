@@ -124,7 +124,7 @@ _Server listening on all interfaces (port 8080)_
      0. Quit
     Server listening on all interfaces (port 5000)
     Enter choice: 1
-    Enter recipient's IP address: 10.18.6.232
+    Enter recipient's IP address: 10.18.x.xxx
     Enter recipient's port number: 6000
     Enter your message (type 'exit' to disconnect): Hi
     
