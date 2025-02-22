@@ -114,7 +114,7 @@ _Server listening on all interfaces (port 8080)_
     
      Enter your team name: Team_BTC
      Enter your port number: 5000
-     Your detected IP address: 10.18.6.232
+     Your detected IP address: 10.18.x.xxx
 
      **** Menu ****
      1. Send message
