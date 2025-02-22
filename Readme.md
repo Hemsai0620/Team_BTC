@@ -110,13 +110,14 @@ _Server listening on all interfaces (port 8080)_
 0. **Quit:**  
    Exits the program.
 
- **SAMPLE RUN**  
-     ```bash
+ ---
+# SAMPLE RUN
+    
      Enter your team name: Team_BTC
      Enter your port number: 5000
      Your detected IP address: 10.18.6.232
 
-            Menu
+     **** Menu ****
      1. Send message
      2. Query active peers
      3. Connect to active peers
@@ -127,7 +128,8 @@ _Server listening on all interfaces (port 8080)_
     Enter recipient's IP address: 10.18.6.232
     Enter recipient's port number: 6000
     Enter your message (type 'exit' to disconnect): Hi
-     ```
+    
+
 
 ## Additional Notes
 
@@ -146,4 +148,8 @@ Ensure the port number you choose is not used by another service and is allowed 
 *If your WiFi connection fails, try using a personal hotspot.*
 
 ---
+
+## Acknowledgement  
+- Prof. Subhra Mazumdar, for the project idea and concepts of peer-to-peer networks.  
+- A helpful documentation of socket programming at [GeeksforGeeks](https://www.geeksforgeeks.org/socket-programming-python/).
 
