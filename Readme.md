@@ -1,4 +1,4 @@
-# Peer-to-Peer Chat Program
+# Peer-to-Peer Chat Program (BONUS)
 
 ## Team Information
 
