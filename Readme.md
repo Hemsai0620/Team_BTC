@@ -138,7 +138,6 @@ Always enter your network-assigned local IP (e.g., 10.x.x.x) rather than 127.0.0
 - **Port Selection:**  
 Ensure the port number you choose is not used by another service and is allowed through your firewall.
 
-- **Troubleshooting:**  
 - Verify that the recipient peer is running the program and listening on the correct port.
 
 - **Network Connectivity:**  
