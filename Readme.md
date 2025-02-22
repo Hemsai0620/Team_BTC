@@ -102,8 +102,7 @@ _Server listening on all interfaces (port 8080)_
    Allows you to select an active peer from the list and sends a "CONNECT" message to verify connectivity and update the peer list.
 
 4. **Send Mandatory Message to Default Peers:**  
-   Automatically sends a message to the predefined static IP addresses:
-   - **IP:** 10.206.4.201, **PORT:** 1255  
+   Automatically sends a message to the predefined static IP addresses:  
    - **IP:** 10.206.5.228, **PORT:** 6555  
    *Note: This option works only when connected to the IIT internal network.*
 
